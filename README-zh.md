@@ -2,8 +2,7 @@
 
 [![English](https://img.shields.io/badge/English-Click-yellow)](README.md)
 [![简体中文](https://img.shields.io/badge/中文文档-点击查看-orange)](README-zh.md)
-
-- [Community Group](#community-group)
+[![Discord](https://img.shields.io/discord/1312302100125843476?logo=discord&label=discord)](https://glama.ai/mcp/discord)
 
 A curated list of awesome Model Context Protocol (MCP) servers for DevOps.
 
@@ -80,17 +79,3 @@ Other useful DevOps MCP servers.
 - [ansible-mcp-server](https://github.com/ansible-community/mcp-plugin) 🐍 🏠 - Ansible configuration management
 - [pulumi-mcp-server](https://github.com/pulumi/mcp-integration) 🏎️ ☁️ - Pulumi infrastructure as code
 - [terragrunt-mcp-server](https://github.com/gruntwork-io/mcp-plugin) 🏎️ 🏠 - Terragrunt wrapper for Terraform
-
-
-# Acknowledgement
-We extend our thanks to the team from DB-GPT for their support and shared knowledge. Their mission and community contributions help drive innovations like derisk forward.
-
-Stay tuned for updates and the official release of our repository. Together, let's build a thriving open-source agent ecosystem!
-
-# Community Group
-
-Join our networking group on Feishu and share your experience with other developers!
-
-<div align="center" style="display: flex; gap: 20px;">
-    <img src="assets/derisk-ai.jpg" alt="DeRisk-AI 交流群" width="300" />
-</div>
